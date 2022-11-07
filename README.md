@@ -11,6 +11,8 @@
 * feature : 기능을 개발하는 브랜치
 * release : 이번 출시 버전을 준비하는 브랜치
 * hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
+![image](https://user-images.githubusercontent.com/52308702/200251251-bcdf818d-4a81-4602-911a-74268aa76fc6.png)
+
 
 ## 방법
 1. 티켓을 배정받고 develop 기준으로 feature/xxx 브랜치를 생성한다
